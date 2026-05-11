@@ -1,0 +1,6 @@
+dart "b:\exercice dart\exercice1.dart"
+
+
+dart "b:\exercice dart\exercice2.dart"
+
+dart "b:\exercice dart\exercice3.dart"
